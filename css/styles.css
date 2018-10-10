@@ -1,20 +1,25 @@
+
+
 .column1 {
-  width: 200px;
+  width: 500px;
   float:left;
   text-align:center;
   background-color: lightsalmon;
+
 }
 
 .column2 {
-  width: 200px;
+  width: 500px;
   float:left;
   text-align:center;
   background-color: lightblue;
+
 }
 
 .column3 {
-  width: 200px;
+  width: 500px;
   float:left;
   text-align:center;
   background-color: lightyellow;
+
 }
