@@ -27,3 +27,23 @@
 p.column2 {
   font-style:italic;
 }
+
+.light-background {
+  background-color: lightpink;
+  color: green;
+}
+
+.dark-background {
+  background-color: darkred;
+  color: white;
+}
+
+.btn-light {
+  background-color: lightpink;
+  color: green;
+}
+
+.btn-dark {
+  background-color: darkred;
+  color: white;
+}
