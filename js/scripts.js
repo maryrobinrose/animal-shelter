@@ -8,4 +8,10 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("light-background");
   });
+
+  $("button#original").click(function() {
+    $("body").removeClass();
+    $("body").addClass();
+  });
+
 });
